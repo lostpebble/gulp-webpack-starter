@@ -19,7 +19,6 @@
     "gulp-rename": "^1.2.0",
     "gulp-ruby-sass": "^0.7.1",
     "gulp-webpack": "^1.2.0",
-    "jest-cli": "^0.2.2",
     "jsx-loader": "^0.12.2",
     "require-dir": "^0.1.0",
     "run-sequence": "^1.0.2"
