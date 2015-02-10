@@ -3,7 +3,7 @@ var connect = require('gulp-connect');
 
 var webserverOptions = {
     livereload : true,
-    root : './'
+    root : ['./']
 };
 
 gulp.task('webserver', function() {
