@@ -17,7 +17,7 @@ Scripts, using SASS, are compiled to `public/stylesheets/styles.css` and minifie
 
 ### Running gulp to make it all work
 
-clean folders, compile scripts and styles and then continue to watch them for changes:
+clean folders, compile scripts, images and styles and then continue to watch them for changes:
 
 `gulp`
 
